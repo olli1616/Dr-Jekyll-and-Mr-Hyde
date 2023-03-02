@@ -1605,8 +1605,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Utterson: Yes. Not only did he come to Jekylls house, but he brought the
-    murder weapon and attempted to hide it!'
+  m_text: 'Utterson: Yes. Not only did he come to Jekyll''s house, but he brought
+    the murder weapon and attempted to hide it!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
@@ -2929,7 +2929,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Utterson: Where to Hyde run to?'
+  m_text: 'Utterson: Where did Hyde run to?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
@@ -4247,7 +4247,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'Utterson: Perfect analyisis. Using the last of the potion, Jekyll managed
-    to regain control just long enoguh to write a letter, but Hyde was about to take
+    to regain control just long enough to write a letter, but Hyde was about to take
     control for ever...'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
@@ -6134,7 +6134,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &995515705
 RectTransform:
   m_ObjectHideFlags: 0
