@@ -9,4 +9,9 @@ public class NextScene : MonoBehaviour
     {
         SceneManager.LoadScene("ClueHuntAlpha");
     }
+
+    public void GoToEndScene()
+    {
+        SceneManager.LoadScene("EndScene");
+    }
 }
