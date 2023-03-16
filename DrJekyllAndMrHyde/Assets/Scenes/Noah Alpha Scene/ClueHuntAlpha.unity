@@ -1130,7 +1130,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: My God Poole, we must check on this man quickly!'
+  m_text: 'Mr. Utterson:
+
+    My God Poole! We must check on this man quickly!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1646,8 +1648,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: This is a mirror... Why would Dr. Jekyll have a mirror in
-    his lab?'
+  m_text: 'Mr. Utterson:
+
+    This is a mirror... Why would Dr. Jekyll have a mirror
+    in his lab?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4080,7 +4084,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: The deceased man died by poisoning, likely to be a suicide.
+  m_text: The deceased man died by poisoning, likely a suicide.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4195,8 +4199,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: There''s blood on the handle. This seems like the cane Mr.
-    Hyde used to murder that politician!'
+  m_text: 'Mr. Utterson:
+
+    There''s blood on the handle. This seems like the cane
+    Mr. Hyde used to murder that politician!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5156,9 +5162,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: Salt? Poole, weren''t you saying earlier that this intruder
-    was asking for salt? That must mean that while he was here, he was attempting
-    to enact this formula.'
+  m_text: 'Mr. Utterson:
+
+    Salt? Poole, weren''t you saying earlier that this
+    intruder was asking for salt? That must mean that while he was here, he was attempting
+    to concoct this formula.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5293,8 +5301,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: This is a broken cane... can you point out anything strange
-    about it?'
+  m_text: 'Mr. Utterson:
+
+    This is a broken cane... can you point out anything
+    strange about it?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5449,9 +5459,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: Based on Mr. Hyde''s cane over there, as well as this man''s
-    appearance... it''s safe to assume that this man is none other than Mr. Hyde
-    himself.'
+  m_text: 'Mr. Utterson:
+
+    Based on Mr. Hyde''s cane over there, as well as this
+    man''s appearance... it''s safe to assume that this man is none other than Mr.
+    Hyde himself.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5864,8 +5876,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: So, Dr. Jekyll was unsuccessful in his experiments. Would
-    things be different if he had succeeded?'
+  m_text: 'Mr. Utterson:
+
+    So, Dr. Jekyll was unsuccessful in his experiments.
+    Would things be different had he succeeded?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6344,9 +6358,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: Based on Mr. Hyde''s cane over there, as well as this man''s
-    appearance... it''s safe to assume that this man is none other than Mr. Hyde
-    himself.'
+  m_text: 'Mr. Utterson:
+
+    Based on Mr. Hyde''s cane over there, as well as this
+    man''s appearance... it''s safe to assume that this man is none other than Mr.
+    Hyde himself.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6461,7 +6477,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: These markings seem deliberate. If I remember his physical
+  m_text: 'Mr. Utterson:
+
+    These markings seem deliberate. If I remember his physical
     features correctly, the top marking matches the height of Dr. Jekyll.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7098,7 +7116,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: Double? I can''t make out the rest of the sentence here.'
+  m_text: 'Mr. Utterson:
+
+    Double? I can''t make out the rest of the sentence
+    here.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7564,9 +7585,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: This must be poison... I can find traces of it around his
-    mouth as well. We may very well be dealing with a case of suicide here, poole.
-    Let''s keep looking around.'
+  m_text: 'Mr. Utterson:
+
+    This must be poison... There are traces of it around
+    his mouth. We may very well be dealing with a case of suicide here, Poole. Let''s
+    keep looking around.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7950,7 +7973,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: Dr. Jekyll''s lab notes...'
+  m_text: 'Mr. Utterson:
+
+    Dr. Jekyll''s lab notes...'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8518,7 +8543,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: These seem to be the notes about Dr. Jekyll''s experiments
+  m_text: 'Mr. Utterson:
+
+    These seem to be the notes about Dr. Jekyll''s experiments
     while trying to execute or create a formula. But, what does this formula do?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9036,8 +9063,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: Who is this man? He seems to be dead, let''s look for the
-    cause.'
+  m_text: 'Mr. Utterson:
+
+    Who is this man? He seems to be dead, let''s look for
+    the cause.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9369,8 +9398,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Mr. Utterson: These markings seem deliberate. This bottom marking... doesn''t
-    it match up with Mr. Hyde''s body?'
+  m_text: 'Mr. Utterson:
+
+    These markings seem deliberate. This bottom marking...
+    doesn''t it match up with Mr. Hyde''s body?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

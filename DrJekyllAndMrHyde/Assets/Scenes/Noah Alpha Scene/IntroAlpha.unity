@@ -182,7 +182,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: On the night of 6/17, a short man named Mr. Hyde was seen murdering a politician
-    in cold blood. He escaped the murder scene and hasn't been seen since.
+    in cold blood. He escaped the crime scene and hasn't been seen since.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -319,10 +319,10 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Mr. Utterson and I approached Dr. Jekyll''s door. We called out to him,
     but there was no response. Mr Utterson called out again, saying that if he didn''t
-    open the door we would be breaking it down in 10 seconds.
+    open the door in ten seconds we would break it down.
 
-    10 seconds went
-    by, and with a nod in my direction, we kicked down the door in unison.'
+    10 seconds went by,
+    and with a nod in my direction, we kicked down the door in unison.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1218,9 +1218,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: My name is Poole. I am a butler for the scientist Dr. Jekyll, and he has
-    been acting strangely in the last week. He hasnt come out of his room at all,
-    his voice has sounded peculiar, and he hasn't eaten anything at all.
+  m_text: My name is Poole. I am a butler for the scientist Dr. Jekyll. He has been
+    acting strangely this past week. He hasn't come out of his room at all, his voice
+    sounds peculiar, and he hasn't eaten anything at all.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1717,9 +1717,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Furthermore, he has been requesting me to fetch him a certain kind of salt.
+  m_text: Furthermore, he has been demaning that I fetch him a certain kind of salt.
     I've provided him this specific salt from all manufacturers in Britain, but none
-    of it satisfies him.
+    of them satisfied him.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1856,7 +1856,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: Dr. Jekyll's behavior has unnerved me greatly, so I sent for his friend
     and detective, Mr. Utterson, to assist me. Mr Utterson has been busy tracking
-    down a mysterious Mr. Hyde, so I was grateful that he could make time for me.
+    down the mysterious Mr. Hyde, so I was grateful that he could make time for me.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
