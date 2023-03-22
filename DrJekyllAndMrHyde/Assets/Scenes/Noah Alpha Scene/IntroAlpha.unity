@@ -318,7 +318,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'Mr. Utterson and I approached Dr. Jekyll''s door. We called out to him,
-    but there was no response. Mr Utterson called out again, saying that if he didn''t
+    but there was no response. Mr. Utterson called out again, saying that if he didn''t
     open the door in ten seconds we would break it down.
 
     10 seconds went by,
@@ -1855,7 +1855,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Dr. Jekyll's behavior has unnerved me greatly, so I sent for his friend
-    and detective, Mr. Utterson, to assist me. Mr Utterson has been busy tracking
+    and detective, Mr. Utterson, to assist me. Mr. Utterson has been busy tracking
     down the mysterious Mr. Hyde, so I was grateful that he could make time for me.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
